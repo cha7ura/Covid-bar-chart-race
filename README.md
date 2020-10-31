@@ -4,7 +4,7 @@ The bar chart race has been done for three different catogories of data. (Confir
 The outputs are as follows:
 
 Confirmed bar chart: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Confirmed bar chart")
+![alt text](https://github.com/cha7ura/Covid-bar-chart-race/blob/main/covid-confirmed.gif "Confirmed bar chart")
 
 
 Deaths bar chart: 
