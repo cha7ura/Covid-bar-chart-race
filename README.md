@@ -8,8 +8,8 @@ Confirmed bar chart:
 
 
 Deaths bar chart: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Deaths bar chart")
+![alt text](https://github.com/cha7ura/Covid-bar-chart-race/blob/main/covid-deaths.gif "Deaths bar chart")
 
 
 Recovered bar chart: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Recovered bar chart")
+![alt text](https://github.com/cha7ura/Covid-bar-chart-race/blob/main/covid-recoveries.gif "Recovered bar chart")
